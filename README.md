@@ -1,3 +1,4 @@
 # Netflix-Clone
-
-A fully responsive clone webpage of Netflix made with only HTML, CSS, JavaScript.
+- A fully responsive clone webpage of Netflix made with only HTML, CSS, JavaScript.
+- Used own styles.
+- Implemented responsive template.
